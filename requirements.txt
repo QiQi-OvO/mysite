@@ -26,9 +26,6 @@ pycparser==2.20
 pyecharts==1.8.1
 PyInstaller==3.5
 pyOpenSSL==19.1.0
-PyQt5==5.13.0
-PyQt5-sip==12.7.0
-pyqt5-tools==5.13.0.1.5
 PySocks==1.7.1
 python-dotenv==0.10.3
 pytz==2019.3
